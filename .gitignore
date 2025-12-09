@@ -1,0 +1,11 @@
+# Python venv
+.venv/
+
+# Data
+data/*.csv
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
