@@ -2,8 +2,6 @@ import os
 import numpy as np
 import pandas as pd
 
-print("DEBUG: script started")
-
 # Random generator for reproducibility
 rng = np.random.default_rng(42)
 
